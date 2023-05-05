@@ -9,7 +9,7 @@ So do this project, you will find some scripts that I wrote by myself and others
 ## Cloning the repo
 You can start by cloning this repo in your wordspace and then start playing with the function to make your project done.
 ```
-git clone https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch
+git clone https://github.com/salinator-hub/liver-segmentation-using-pytorch-and-monai
 ```
 ```
 cd ./Liver-Segmentation-Using-Monai-and-PyTorch
