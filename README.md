@@ -90,7 +90,7 @@ And to run the code, you can use the scripts `train.py` that will call the train
 ## Testing the model
 To test the model, there is the jupyter notebook `testing.ipynb` file that contains the different codes that you need. You will find the part to plot the training/testing graphs about the loss and the dice coefficient and of course you will find the the part to show the results of one of the test data to see the output of your model.
 
-![Output image](https://raw.githubusercontent.com/salinator-hub/liver-segmentation-using-pytorch-and-monai/main/images/graphs.PNG)
+![Output image](https://github.com/salinator-hub/liver-segmentation-using-pytorch-and-monai/blob/main/images/graphs.PNG)
 
 ----------------------------------------------------------------------------------------------------------------------------------
 I took the influence from this blog post series so You can read about the tutorial in this blog post series starting by [this one.](https://pycad.co/liver-segmentation-part-1/)
